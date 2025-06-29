@@ -1,16 +1,10 @@
 # login_signup
 
-A new Flutter project.
+A new Flutter UI Code.
 
-## Getting Started
+# Sign_up Page
 
-This project is a starting point for a Flutter application.
+![Sign_up_page](https://github.com/user-attachments/assets/f5d9ab7e-b54e-4442-9ced-9a726409b7e9)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Login Page
+![Login_page](https://github.com/user-attachments/assets/b32ebf4b-9161-4253-8c86-677b92f3cfee)
