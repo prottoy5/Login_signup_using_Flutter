@@ -1,6 +1,10 @@
-# login_signup
-
-A new Flutter UI Code.
+# Flutter Dark Theme Login & Signup UI
+This project is a clean and modern Flutter UI featuring a dark-themed Login and Sign-up interface. It includes:
+- Elegant dark mode with improved contrast for readability
+- Stylish form fields with icon support
+- Password visibility toggles
+- Navigation between login and signup screens
+- Fully responsive and easy to customize
 
 # Sign_up Page
 
